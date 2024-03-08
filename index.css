@@ -13,15 +13,6 @@ font-family: 'Source Sans Pro', sans-serif; */
   --nav-bg: rgba(26, 22, 27, 0.212);
 }
 
-
-
-
-
-
-
-
-
-
 * {
 
   margin: 0;
@@ -145,9 +136,6 @@ main {
   justify-content: center;
 
 }
-
-
-
 #hobby {
   margin: 0.75em 0;
   padding: 0 1em;
@@ -155,7 +143,6 @@ main {
   color: rgb(124, 111, 111);
   font-size: 20px;
 }
-
 #hobby li::before {
   content: "";
   border-color: transparent rgb(124, 111, 111);
@@ -168,8 +155,6 @@ main {
   top: 0.9em;
   position: relative;
   font-size: 20px;
-
-
 }
 
 .btn {
@@ -184,7 +169,6 @@ main {
   background-color: rgba(81, 40, 92, 0.89);
   border-radius: 7px;
   font-size: 20px;
-
 }
 
 #resume {
@@ -194,12 +178,9 @@ main {
   justify-content: center;
   height: 30px;
   position: relative;
-
 }
 
 .Qualifications {
-
-
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 40px;
   color: rgba(81, 40, 92, 0.89);
@@ -215,12 +196,9 @@ main {
   margin: 10px;
   padding: 10px;
   margin-left: 220px;
-
 }
 
 .horizontal {
-
-
   height: 1px;
   background-color: var(--purple-bg);
   margin: 10px;
@@ -234,21 +212,16 @@ hr {
   margin: 0 150px;
   width: 2px;
   display: flex;
-
-
-
 }
 
 .vertical1 {
   margin: 15px;
   font-family: Georgia, 'Times New Roman', Times, serif;
-
 }
 
 .vertical1:hover {
   background-color: #e8cfee;
   padding: 20px;
-
 }
 
 
@@ -261,7 +234,6 @@ hr {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-
   width: 100%;
 }
 
@@ -269,13 +241,11 @@ hr {
 .left {
   width: 250%;
   margin: 29px;
-
 }
 
 .left p {
   font-size: 20px;
   padding-top: 30px;
-
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-style: normal;
   color: purple;
@@ -303,16 +273,6 @@ hr {
   background-color: rgb(228, 224, 228);
 }
 
-
-
-
-
-
-
-
-
-
-
 h2 {
   margin: 20px;
 
@@ -326,7 +286,6 @@ h2 {
 .container {
   display: flex;
   align-items: center;
-
   margin: 20px;
 }
 
@@ -337,7 +296,6 @@ h2 {
 
 span {
   margin-left: 90px;
-
 }
 
 .section6 input,
@@ -362,9 +320,6 @@ textarea {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   color: darkslateblue;
 }
-
-
-
 .footer {
 
   background-image: linear-gradient(to bottom, #E0B0FE, #DDA5F7, #D993E9);
@@ -375,10 +330,7 @@ textarea {
   display: flex;
   justify-content: center;
   width: 100%;
-
 }
-
-
 
 #myBtn {
   display: none;
@@ -402,9 +354,6 @@ textarea {
   background-color: #555;
 }
 
-
-
 .foot {
   margin-top: 60px;
-
 }
