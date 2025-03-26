@@ -1,6 +1,6 @@
 
 # Welcome to my Personal-Portfolio 
-<a href="https://ishwarik117.github.io/ishwari-kape/">Visit Portfolio</a>
+<a href="https://ishwarik117.github.io/ishwarik_portfolio/">Visit Portfolio</a>
 
 
 
